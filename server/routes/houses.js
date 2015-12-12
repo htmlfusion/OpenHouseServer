@@ -1,7 +1,6 @@
+var houses = require('../controllers/houses');
+
 module.exports = function(app) {
 
-  app.get('/houses/', function(req, res) {
-    res.send('Hello Houses');
-  });
-
+  app.get('/houses', houses.index);
 }
