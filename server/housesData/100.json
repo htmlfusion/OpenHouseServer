@@ -2,13 +2,13 @@
   "data": {
     "house": {
       "rooms": [{
-        "image": "http//:127.0.0.1:8080/IMG_0605.JPG",
-        "description": "Woot",
-        "id": 0,
+        "image": "http//:127.0.0.1:8080/amazing_room.JPG",
+        "description": "Must be at least 100 square feet!",
+        "id": 2,
         "passages": [{
-          "roomId": 1,
+          "roomId": 3,
           "position": [
-            0, 0, 0
+            90, 0, 0
           ]
         }]
       }]

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "house": {
+      "rooms": [{
+        "image": "http//:127.0.0.1:8080/bedroom.JPG",
+        "description": "This test json is roomy!",
+        "id": 3,
+        "passages": [{
+          "roomId": 4,
+          "position": [
+            30, 0, 0
+          ]
+        }]
+      }]
+    }
+  }
+}
